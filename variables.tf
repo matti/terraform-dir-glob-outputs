@@ -1,0 +1,3 @@
+variable "pattern" {
+  type = "string"
+}
